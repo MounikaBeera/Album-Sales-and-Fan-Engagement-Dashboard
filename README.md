@@ -1,4 +1,4 @@
-# 🎧 K-Pop Album Sales & Fan Engagement Analytics Dashboard
+# 🎧 Album Sales & Fan Engagement Analytics Dashboard
 
 ---
 
