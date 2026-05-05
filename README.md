@@ -10,11 +10,32 @@ The dataset tracks **800+ albums** across **190 unique artists** and **37 record
 
 ---
 
+## 🌐 Data Source
+
+The primary dataset used in this project was collected from **Circle Chart (Gaon Chart)** — the official music chart of South Korea.
+
+🔗 Website: https://circlechart.kr/page_chart/album.circle
+
+### 📥 Data Collection Method
+
+* Album sales data was manually collected from **year-wise Circle Chart reports**
+* Data covers the period from **2019 to 2026 (partial for 2026)**
+* Top-performing albums were extracted for each year
+* Additional streaming and engagement metrics were integrated from supporting sources
+
+### 📌 Notes
+
+* Circle Chart provides **verified industry-level sales data**
+* The dataset used in this project is curated for analytical purposes
+* Values may represent aggregated or processed figures for consistency
+
+---
+
 ## 📦 Dataset Summary
 
 | Attribute       | Details                                 |
 | --------------- | --------------------------------------- |
-| Dataset Scope   | Multi-source industry dataset           |
+| Dataset Scope   | Circle Chart (Primary) + Additional sources |
 | Total Records   | 800 albums                              |
 | Artists Covered | 190 artists                             |
 | Labels Covered  | 37 labels                               |
