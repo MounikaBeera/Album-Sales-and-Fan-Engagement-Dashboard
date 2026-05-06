@@ -9,6 +9,7 @@ This project is a comprehensive **data analytics solution** designed to evaluate
 The dataset tracks **800+ albums** across **190 unique artists** and **37 record labels**, covering a total of **408.59 million physical sales** and **2.81 trillion digital streams**.
 
 ---
+<img width="1236" height="444" alt="Screenshot 2026-05-05 112548" src="https://github.com/user-attachments/assets/04e2e04b-ccce-4183-bf7f-90bc61b5944b" />
 
 ## 🌐 Data Source
 
